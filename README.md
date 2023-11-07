@@ -2,8 +2,6 @@
 ![](https://img.shields.io/badge/license-MIT-green/)
 ![](https://img.shields.io/badge/node%40latest-%3E%3D%206.0.0-brightgreen)
 
-![](https://img.shields.io/github/followers/drimmorais?style=social)
-<img src="https://ibb.co/k8ThjMs" alt="">
 <h1 align="center">eConect</h1>
 
 <table align="center">
